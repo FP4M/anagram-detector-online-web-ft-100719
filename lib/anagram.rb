@@ -4,4 +4,5 @@ class Anagram
     
   end 
   
-  def match(array_)
+  def match(array_of_word)
+    
