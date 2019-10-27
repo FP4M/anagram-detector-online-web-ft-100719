@@ -1,2 +1,2 @@
 class Anagram
-  def initailize 
+  def initailize(word)
