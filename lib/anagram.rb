@@ -4,4 +4,4 @@ class Anagram
     
   end 
   
-  
+  def m
